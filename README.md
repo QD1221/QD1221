@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 
-## More
+## Contacts
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC0luypXDpOHJxQs7h3nlpQg)](https://www.youtube.com/channel/UC0luypXDpOHJxQs7h3nlpQg) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/qd.1221/)](https://www.instagram.com/qd.1221/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qd12122000@gmail.com)](mailto:qd12122000@gmail.com)
