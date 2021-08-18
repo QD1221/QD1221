@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 ## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/qd1221/)](https://www.linkedin.com/in/qd1221/) 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/qd.1221/)](https://www.instagram.com/qd.1221/) 
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:qd12122000@gmail.com)](mailto:qd12122000@gmail.com)
