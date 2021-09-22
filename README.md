@@ -1,5 +1,5 @@
 ## Welcome
-### Hi there 👋
+### Hi 👋
 
 [![Quang's github stats](https://github-readme-stats.vercel.app/api?username=QD1221&theme=material-palenight)](https://github.com/QD1221/github-readme-stats))
 
